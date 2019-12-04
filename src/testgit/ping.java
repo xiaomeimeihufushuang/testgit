@@ -6,6 +6,7 @@ public class ping {
 		System.out.println("pang");
 		System.out.println("pangpang");
 		System.out.println("qqq");
+		System.out.println("dddd");
 	}
 
 }
