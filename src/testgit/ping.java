@@ -8,6 +8,7 @@ public class ping {
 		System.out.println("qqq");
 		System.out.println("dddd");
 		System.out.println("小美眉护肤霜");
+		System.out.println("嘿嘿嘿");
 	}
 
 }
