@@ -10,6 +10,7 @@ public class ping {
 		System.out.println("小美眉护肤霜");
 		System.out.println("嘿嘿嘿");
 		System.out.println("羞羞羞");
+		System.out.println("双12了");
 	}
 
 }
